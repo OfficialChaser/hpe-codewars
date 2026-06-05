@@ -1,6 +1,6 @@
 # HPE Codewars Solutions
 
-My personal collection of [HPE Codewars](https://hpecodewars.org) solutions from my freshman, sophomore, and junior year of high school (I missed senior year for a tennis tournament). During my freshman year, I didn't place in the novice division---it was more about the experience. During my sophomore year, I led a team of 3 to win the novice division. During my junior year, a friend and myself competed in the advanced division but unfortunately didn't place. All years, I competed at the competition site in Roseville, California.
+My personal collection of [HPE Codewars](https://hpecodewars.org) solutions from my freshman, sophomore, and junior year of high school (I missed senior year for a tennis tournament). During my freshman year, I didn't place in the novice division---it was more about the experience. During my sophomore year, I led a team of 3 to win the novice division. During my junior year, a friend and I competed in the advanced division but unfortunately didn't place. All years, I competed at the competition site in Roseville, California.
 
 HPE Codewars is a regional in-person coding competition designed to test students' coding knowledge in just three hours. Participants score points by solving problems from the problem packet given out at the beginning of the competition. The competition is split into a novice division and an advanced division.
 
