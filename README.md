@@ -1,48 +1,33 @@
-# Advent of Code Solutions
-[](https://github.com/OfficialChaser/advent-of-code#advent-of-code-solutions)
-My personal collection of [Advent of Code](https://adventofcode.com/) solutions from previous years, all written in Python. Working through these puzzles has helped me sharpen my problem solving skills and learn to optimize my solutions.
+# HPE Codewars Solutions
+
+My personal collection of [HPE Codewars](https://codewars.hpe.com/) solutions from my freshman, sophomore, and junior year of high school (I missed senior year for a tennis tournament). All written in Python, and working through these competitions genuinely helped me sharpen my problem solving skills and learn to write more optimized code.
 
 ## How it's organized
-[](https://github.com/OfficialChaser/advent-of-code#how-its-organized)
-Solutions are grouped by year folders like `2020/`, `2021/`, `2023/`, `2024/`, plus beta years `2024_beta/` and `2025_beta/`.
 
-Each year folder contains Python solution scripts and input files. Most scripts follow the naming pattern:
+Solutions are grouped by year (`2020/`, `2021/`, `2023/`, `2024/`), plus `2024_beta/` and `2025_beta/` for in-progress work.
 
-```
-probXX.py   # solution script for day/problem XX
-```
-
-Puzzle inputs are typically stored as:
+Each year folder contains solution scripts and input files:
 
 ```
-input.txt
+2024/
+  prob03.py   # solution for problem 3
+  input.txt   # puzzle input
 ```
 
-Some years include additional input files such as `prob3.in`.
+Some years also include additional input files like `prob3.in`.
 
 ## Running a solution
-[](https://github.com/OfficialChaser/advent-of-code#running-a-solution)
+
 Each script reads from stdin and prints to stdout. From the repo root:
 
 **Unix/WSL:**
-
-```
+```bash
 python 2024/prob03.py < 2024/input.txt
 ```
 
 **Windows PowerShell:**
-
-```
+```powershell
 Get-Content 2024\input.txt | python 2024\prob03.py
 ```
 
 Just Python 3.8+ required, no external packages.
-
-## Repository layout
-- `2020/` — Advent of Code 2020 solutions
-- `2021/` — Advent of Code 2021 solutions
-- `2023/` — Advent of Code 2023 solutions
-- `2024/` — Advent of Code 2024 solutions
-- `2024_beta/` — beta or in-progress 2024 solutions
-- `2025_beta/` — beta or in-progress 2025 solutions
-
