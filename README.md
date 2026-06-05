@@ -1,6 +1,6 @@
 # HPE Codewars Solutions
 
-My personal collection of [HPE Codewars](https://codewars.hpe.com/) solutions from my freshman, sophomore, and junior year of high school (I missed senior year for a tennis tournament). All written in Python, and working through these competitions genuinely helped me sharpen my problem solving skills and learn to write more optimized code.
+My personal collection of [HPE Codewars](https://hpecodewars.org) solutions from my freshman, sophomore, and junior year of high school (I missed senior year for a tennis tournament). All written in Python, and working through these competitions genuinely helped me sharpen my problem solving skills and learn to write more optimized code.
 
 ## How it's organized
 
